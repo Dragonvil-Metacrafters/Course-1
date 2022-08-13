@@ -1,0 +1,26 @@
+Feedback:
+- For new joiners terms are thrown in the module without explanation, these are not frequently used terms outside of crypto.
+    - Epoch: On the very first page. 
+	- Ledger: Lesson 3/9 module 1
+- We talk about how Solana is faster then Ethereum. Is it also cheaper electricity wise? A lot of people who are against blockchains use arguments like a transaction uses X watt or something. Curious if this is true and if so universal between chains
+	- Oeh, proof of stake in module after. This may already answer this. Proof of stake decreases electricty by 95%
+- Gonna be mean here: Don't get me wrong. I love your enthousiasm and voice, You're a great presenter. But in my opinion adding some more frame around the presenter would be good. it feels a bit too close.
+	--> Only applies for the full screen presentations.
+
+Solana is a level 1 blockchain, what does this mean?
+Answered later:
+	A block chain is technology which makes it possible to record information an a reliable way
+	We are layer one since Solana is a base layer which validates everything. this means there's extra features/security. Other example would be Ethereum
+  - This makes me wonder, a guy earlier this week showed a video of token vs coin where a coin has its own chain. Are coins level 2 blockchains? Or are they still just entities upon the Solana blockchain.
+
+Areas of interest:
+Defi project: Orca, cause I'm curious about options of automatic interaction with this
+https://solana.com/ecosystem/orca
+NFT project: Metaplex, heard a lot about metaplex protocols
+https://solana.com/ecosystem/metaplex?categories=nft
+Application: Genopets, it's the app my crypto interest sparks from. Didn't find it listed though
+
+What's exciting about Solana to me:
+I'm involved in a crypto project where I'm the main pull behind a bot. Would like to add features that use web3 logic.
+I also am curious about learning Rust, have been for quite some time but haven't had a good use case to inspire the time investment hope this will help
+It's a whole new world with both data analysis, calculation in the shape of programs and more which I'm curious to explore
